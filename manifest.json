@@ -483,5 +483,12 @@
   ],
   "categories": [
     "business"
+  ],
+  "shortcuts": [
+    {
+      "name": "BitMEX",
+      "url": "/",
+      "description": "비트맥스"
+    }
   ]
 }
