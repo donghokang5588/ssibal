@@ -1,12 +1,12 @@
 {
   "dir": "auto",
-  "display": "standalone",
+  "display": "minimal-ui",
   "name": "1만 시간의 법칙",
   "short_name": "시간의 법칙",
   "lang": "ko",
-  "theme_color": "#000000",
-  "background_color": "#000000",
-  "start_url": "https://deb0-118-43-233-147.ngrok.io/",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "https://donghokang5588.github.io/ssibal/",
   "orientation": "portrait",
   "icons": [
     {
@@ -682,5 +682,6 @@
       "purpose": "any"
     }
   ],
-  "screenshots": []
+  "screenshots": [],
+  "description": "1만 시간의 법칙"
 }
