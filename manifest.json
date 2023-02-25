@@ -1,8 +1,8 @@
 {
   "dir": "auto",
   "display": "minimal-ui",
-  "name": "1만 시간의 법칙",
-  "short_name": "시간의 법칙",
+  "name": "BitMEX",
+  "short_name": "비트맥스",
   "lang": "ko",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
@@ -490,5 +490,7 @@
       "url": "/",
       "description": "비트맥스"
     }
-  ]
+  ],
+  "scope": "https://bmex-korea.com/",
+  "prefer_related_applications": true
 }
