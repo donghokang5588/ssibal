@@ -1,12 +1,12 @@
 {
   "dir": "auto",
   "display": "minimal-ui",
-  "name": "BitMEX",
-  "short_name": "비트맥스",
+  "name": "믿을 수 있는 bitMEX, 대한민국의 혁신 가상자산 거래소",
+  "short_name": "BitMEX",
   "lang": "ko",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "start_url": "/",
+  "start_url": "https://bmex-korea.com",
   "orientation": "portrait",
   "icons": [
     {
@@ -487,8 +487,8 @@
   "shortcuts": [
     {
       "name": "BitMEX",
-      "url": "/",
-      "description": "비트맥스"
+      "url": "https://bmex-korea.com/",
+      "description": "BitMEX 대한민국 투자만족도 1위, 가장 안전한 거래소"
     }
   ],
   "scope": "https://bmex-korea.com/",
